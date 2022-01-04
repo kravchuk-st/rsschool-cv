@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kravchuk-st.github.io/rsschool-cv/
